@@ -16,6 +16,10 @@
 @import url(timeline.css);
 @import url(flaticon.css);
 
+.social-icons .fa {
+    font-size: 36px; /* Ajuste o valor para o tamanho desejado */
+}
+
 /*------------------------------------------------------------------
     SKELETON
 -------------------------------------------------------------------*/
